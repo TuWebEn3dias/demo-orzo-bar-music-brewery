@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tuweben3dias.github.io/demo-orzo-bar-music-brewery/sitemap.xml
