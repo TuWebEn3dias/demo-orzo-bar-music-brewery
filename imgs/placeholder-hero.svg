@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0A0A0A"/>
+      <stop offset="100%" style="stop-color:#1A1A2E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#00FF88;stop-opacity:0.15"/>
+      <stop offset="100%" style="stop-color:#00FF88;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="600" fill="url(#bg)"/>
+  <circle cx="300" cy="300" r="250" fill="url(#glow)"/>
+  <text x="300" y="260" font-family="Arial,sans-serif" font-size="120" text-anchor="middle" dominant-baseline="central">🍺</text>
+  <text x="300" y="380" font-family="Plus Jakarta Sans,Arial,sans-serif" font-size="24" font-weight="700" fill="#00FF88" text-anchor="middle" letter-spacing="4">ORZO BAR</text>
+  <text x="300" y="420" font-family="Inter,Arial,sans-serif" font-size="14" fill="#888888" text-anchor="middle" letter-spacing="2">MUSIC &amp; BREWERY</text>
+</svg>
